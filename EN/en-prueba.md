@@ -1,10 +1,10 @@
 ---
 title: cub3d
-description: 'This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. The goal will be to
-find your game inside a maze.'
+description: 'This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. The goal will be to find your game inside a maze.'
+img: 'cube3d.jpg'
+url: 'en-prueba'
+git: 'https://github.com/JavierCervilla/Cube3D.git'
 ---
-This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. The goal will be to
-find your game inside a maze.
 
 ## A bit of history
 Developed by Id Software by the über famous John Carmack and John Romero, published in 1992 by Apogee Software, Wolfenstein 3D is the first true “First Person

@@ -2,6 +2,9 @@
 title: cub3d
 description: 'This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. The goal will be to
 find your game inside a maze.'
+img: 'cube3d.jpg'
+url: 'es-cube3d'
+git: 'https://github.com/JavierCervilla/Cube3D.git'
 ---
 This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. The goal will be to
 find your game inside a maze.
